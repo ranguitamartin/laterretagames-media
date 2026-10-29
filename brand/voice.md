@@ -7,9 +7,9 @@ Edit this file any time; the agent reads the latest version every Monday.
 
 - **Name:** La Terreta Games (Roberto, solo indie developer)
 - **Handle:** @laterretagames
-- **What I do, in one sentence:** I build AppWatch, a dashboard that puts App Store, Google Play, itch.io and Steam numbers in one place for indie developers.
+- **What I do, in one sentence:** La Terreta Games is a one-person indie studio that makes games, apps and developer tools (AppWatch, Sensores, FoxyHops, Retro Loco and more; see brand/products.md).
 - **Who I am talking to:** indie game and app developers who ship alone or in tiny teams and check five dashboards after every launch.
-- **What I sell:** AppWatch, free to try, at appwatch.dev
+- **What I sell / show:** the studio's products. AppWatch is the current campaign (appwatch.dev), but the account is the studio's, not only AppWatch's.
 
 ## What I sound like
 
@@ -44,6 +44,8 @@ Edit this file any time; the agent reads the latest version every Monday.
 - "'It feels like it's going well' is not a metric."
 - "We keep our roadmap public. Including the things we are not promising."
 
-## Topics
+## Topics (account is for ALL products, not only AppWatch)
+
+Audience content (relatable indie-dev humor, honest lessons, build-in-public stories, questions and polls) is as important as product posts: it is what brings new followers.
 
 Educational (store listing tests, refund rate, review trends, price and discount history) · Product (shipped features) · Behind the scenes (public roadmap, building in public) · Community (ask what Steam or store number they check first).
